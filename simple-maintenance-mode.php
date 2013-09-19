@@ -44,7 +44,7 @@ class SimpleMaintenanceMode {
 		<div class="wrap">
 			<div id="icon-options-general" class="icon32"></div>
 			<h2>Maintenance Mode</h2>
-			<p><a href="http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/">Upgrade to the Advance version</a></p>
+			<p><a href="http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/">Upgrade to the Advance version</a></p>
 			
 			<?php 
 			// Output your settings form
