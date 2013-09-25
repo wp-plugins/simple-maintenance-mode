@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Maintenance Mode
 Description: An easy way to create a maintenance mode page for your Wordpress site.
-Version: 1.0
+Version: 1.01
 Author: Jeff Bulllins
 Author URI: http://www.thinklandingpages.com
 */

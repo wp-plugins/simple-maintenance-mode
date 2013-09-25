@@ -12,14 +12,11 @@ $simple_mm_option_start = '_simple_mm__general_';
 <html>
 <head>
 <title>Maintenance Mode</title>
-
+<!-- version 1.01 -->
 
 <style type="text/css">
 
-html, body {
-  height: 100%;
-  
-}
+
 /*
 body{
 	 background-attachment: fixed;
@@ -67,7 +64,7 @@ img#bg {
 <body>
 
 
-<table align="center" valign="center" height="100%">
+<table align="center">
 		<table height="400" width="600" align="center" valign="center" id="content_area">
 		<tr>
 			<td>

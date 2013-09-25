@@ -4,7 +4,7 @@ Donate link: http://www.thinklandingpages.com
 Tags: wordpress maintenance mode, maintenance page 
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,5 +65,8 @@ Yes, this is a plugin and will work with your existing theme.
 
 = 1.0 =
 * First Release
+
+= 1.01 =
+* Fixed top spacing issue in IE
 
 
