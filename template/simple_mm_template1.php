@@ -12,7 +12,7 @@ $simple_mm_option_start = '_simple_mm__general_';
 <html>
 <head>
 <title>Maintenance Mode</title>
-<!-- version 1.01 -->
+<!-- version 1.02 -->
 
 <style type="text/css">
 
