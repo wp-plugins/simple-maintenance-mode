@@ -14,7 +14,7 @@ Easily create a maintenance mode page for your Wordpress site.
 
 Create a maintenance mode page and block all non-logged in users from accessing your site while you work on it.
 
-*  [Upgrade to the Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%2Brepository&utm_medium=text&utm_content=main%2Bpage%2Blink&utm_campaign=free%2Bmaintenance%2Bmode)
+*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20repo%20top)
 
 ###What you get when you use the Simple Wordpress Maintenance Mode plugin
 
@@ -36,7 +36,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 *  More color options for the fonts so you can customize the text even more
 *  And more...
 
-*  [Upgrade to the Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%2Brepository&utm_medium=text&utm_content=main%2Bpage%2Blink&utm_campaign=free%2Bmaintenance%2Bmode)
+*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20repo%20bottom)
 
 == Installation ==
 
