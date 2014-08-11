@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: wordpress maintenance mode, maintenance page 
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 3.8.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,7 +14,7 @@ Easily create a maintenance mode page for your Wordpress site.
 
 Create a maintenance mode page and block all non-logged in users from accessing your site while you work on it.
 
-*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20repo%20top)
+*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20top)
 
 ###What you get when you use the Simple Wordpress Maintenance Mode plugin
 
@@ -36,7 +36,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 *  More color options for the fonts so you can customize the text even more
 *  And more...
 
-*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20repo%20bottom)
+*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20bottom)
 
 == Installation ==
 

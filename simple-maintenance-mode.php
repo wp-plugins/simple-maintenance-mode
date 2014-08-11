@@ -44,7 +44,7 @@ class SimpleMaintenanceMode {
 		<div class="wrap">
 			<div id="icon-options-general" class="icon32"></div>
 			<h2>Maintenance Mode</h2>
-			<p><a href="http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20inside%20top">Free Upgrade to the Advance Lite version</a></p>
+			<p><a href="http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20free%20plugin&utm_medium=wordpress%20free%20plugin&utm_campaign=upgrade%20maintenance%20mode%20inside%20top">Upgrade to the Pro Version</a></p>
 			
 			<?php 
 			// Output your settings form
@@ -142,7 +142,7 @@ class SimpleMaintenanceMode {
 		        array(
 		            'id' => 'message_font_color',
 		            'title' => 'Message Color',
-		            'desc' => '<a href="http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=free%20maintenance%20mode%20inside%20bottom">Click here to get the free advanced lite version</a>',
+		            'desc' => '<a href="http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20free%20plugin&utm_medium=wordpress%20free%20plugin&utm_campaign=upgrade%20maintenance%20mode%20inside%20bottom">Upgrade to the Pro Version</a>',
 		            'type' => 'color',
 		            'std' => '#ffffff'
 		        ),
