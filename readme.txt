@@ -26,7 +26,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 
 ###Additional Features in the full Advanced version
 
-*  Create multiple landing page with customizable permalinks to build your email list
+*  Countdown timer to notify your visitors when you will be back online
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
 *  Choose a background color or add a background image to make the page uniquely yours
 *  Customize the headline and description and choose a font
