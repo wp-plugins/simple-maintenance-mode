@@ -56,6 +56,9 @@ No.  The plugin uses a simple to edit form to collect your information and creat
 
 Yes, this is a plugin and will work with your existing theme.
 
+= Will I be able to login when the site is in maintenance mode?
+
+Yes.  When the plugin is set to maintenance mode, you will be able to login and work on your site while your visitors will see the maintenance message page.
 == Screenshots ==
 
 
