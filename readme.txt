@@ -1,7 +1,7 @@
 === Wordpress Maintenance Mode ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
-Tags: wordpress maintenance mode, maintenance page 
+Tags: wordpress maintenance mode, maintenance page, admin, administration, construction, maintenance, mode, modo, offline, unavailable, site maintenance, under construction, launch, launch page, coming soon, coming soon page
 Requires at least: 3.0
 Tested up to: 3.8.1
 Stable tag: trunk
@@ -74,3 +74,6 @@ Yes.  When the plugin is set to maintenance mode, you will be able to login and 
 
 = 1.02 =
 * Changed stable to trunk
+
+= 1.03 =
+* Added tags
