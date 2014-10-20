@@ -36,6 +36,8 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 *  More color options for the fonts so you can customize the text even more
 *  And more...
 
+Don't let work on your site without using this maintenance mode plugin.  It will let your users know you are temporarily down for maintenance.
+
 *  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20bottom)
 
 == Installation ==
