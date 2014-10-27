@@ -61,6 +61,11 @@ Yes, this is a plugin and will work with your existing theme.
 = Will I be able to login when the site is in maintenance mode?
 
 Yes.  When the plugin is set to maintenance mode, you will be able to login and work on your site while your visitors will see the maintenance message page.
+
+= Does the upgrade have different templates I can choose from? =
+
+Yes, there are 6 professionally design templates for you to choose from in the upgrade.
+
 == Screenshots ==
 
 
