@@ -66,6 +66,9 @@ Yes.  When the plugin is set to maintenance mode, you will be able to login and 
 
 Yes, there are 6 professionally design templates for you to choose from in the upgrade.
 
+= Can I choose the message color? =
+Yes, you can choose the message color.
+
 == Screenshots ==
 
 
