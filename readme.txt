@@ -19,9 +19,10 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 ###What you get when you use the Simple Wordpress Maintenance Mode plugin
 
 *  Add your logo for branding you
-*  Customize the maintenance message
+*  Customize the maintenance mode message
 *  Choose message color
-*  Login to work on your site
+*  Login to work on your site while in maintenance mode
+*  Toggle the maintenance mode on and off with a simple checkbox
 
 
 ###Additional Features in the full Advanced version
