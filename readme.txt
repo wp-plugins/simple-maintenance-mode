@@ -18,7 +18,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 
 ###What you get when you use the Simple Wordpress Maintenance Mode plugin
 
-*  Add your logo for branding you
+*  Add your logo for branding you on you maintenance mode page
 *  Customize the maintenance mode message
 *  Choose message color
 *  Login to work on your site while in maintenance mode
@@ -35,6 +35,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 *  Collect emails with Aweber, Mailchimp, Constant Contact, Get Response, Office Autopilot, and other email list management software
 *  Multiple templates to choose from to give you more layout options
 *  More color options for the fonts so you can customize the text even more
+*  Toggle countdown timer on and off on your maintenance mode page
 *  And more...
 
 Don't let work on your site without using this maintenance mode plugin.  It will let your users know you are temporarily down for maintenance.
