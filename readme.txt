@@ -40,6 +40,10 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 
 Don't let work on your site without using this maintenance mode plugin.  It will let your users know you are temporarily down for maintenance.
 
+If you haven't launched your site yet, then you don't need to notify your users that you are working unless you want to use a coming soon page to collect emails.  But once your site is live, you need to let your users know that you are in maintenance mode.  The simple maintenance mode plugin give you the ability to let your users know you are in maintenance mode with a custom message provided by you.
+
+The simple maintenance mode plugin sends all of you traffic to the maintenance mode page so your users won't see 404 messages or experience other problems while you are working on your site.
+
 *  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20bottom)
 
 == Installation ==
