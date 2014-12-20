@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: wordpress maintenance mode, maintenance page, admin, administration, construction, maintenance, mode, modo, offline, unavailable, site maintenance, under construction, launch, launch page, coming soon, coming soon page
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -70,7 +70,7 @@ You can choose a custom background color or background image so your maintenance
 
 No.  The plugin uses a simple to edit form to collect your information and create the page.
 
-= Will the page work with my existing theme? =
+= Will the maintenance mode page work with my existing theme? =
 
 Yes, this is a plugin and will work with your existing theme.
 
@@ -78,12 +78,15 @@ Yes, this is a plugin and will work with your existing theme.
 
 Yes.  When the plugin is set to maintenance mode, you will be able to login and work on your site while your visitors will see the maintenance message page.
 
-= Does the upgrade have different templates I can choose from? =
+= Does the upgrade have different maintenance mode templates I can choose from? =
 
-Yes, there are 6 professionally design templates for you to choose from in the upgrade.
+Yes, there are 6 professionally design maintenance mode templates for you to choose from in the upgrade.
 
-= Can I choose the message color? =
-Yes, you can choose the message color.
+= Can I choose the maintenance mode message color? =
+Yes, you can choose the maintenance mode message color.
+
+= Does the Simple maintenance mode plugin have a countdown timer? =
+The Simple maintenance mode upgrade has a countdown timer that you can turn on/off and set to what ever time you want.
 
 == Screenshots ==
 
