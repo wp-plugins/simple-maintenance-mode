@@ -46,6 +46,8 @@ If you haven't launched your site yet, then you don't need to notify your users 
 
 The simple maintenance mode plugin sends all of you traffic to the maintenance mode page so your users won't see 404 messages or experience other problems while you are working on your site.
 
+Don't use a canned message on your maintenance mode page.  The simple maintenance mode plugin allows you a message that is appropriate for your down time.
+
 ###Why you should get the Pro version
 
 The basic version of the simple maintenance mode plugin is good and will give you a basic maintenance mode page.  But if you want something a little more professional, you should get the Simple Maintenance Mode Pro plugin.  Here are a few reasons why:
