@@ -38,6 +38,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 *  Multiple templates to choose from to give you more layout options
 *  More color options for the fonts so you can customize the text even more
 *  Toggle countdown timer on and off on your maintenance mode page
+*  Use the build in Twitter and Facebook iconson your maintenance mode page
 *  And more...
 
 Don't let work on your site without using this maintenance mode plugin.  It will let your users know you are temporarily down for maintenance.
