@@ -92,7 +92,7 @@ The Simple maintenance mode upgrade has a countdown timer that you can turn on/o
 
 == Screenshots ==
 
-
+[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/simple-maintenance-mode/)
 
 
 == Changelog ==
