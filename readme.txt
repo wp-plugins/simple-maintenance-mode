@@ -14,7 +14,7 @@ Easily create a maintenance mode page for your Wordpress site.
 
 Create a maintenance mode page and block all non-logged in users from accessing your site while you work on it.
 
-*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20top)
+*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20top)
 
 ###What you get when you use the Simple Wordpress Maintenance Mode plugin
 
@@ -56,7 +56,7 @@ Placing a countdown timer on you maintenance mode is as easy as checking a box a
 
 You can choose a custom background color or background image so your maintenance mode page matches your site.
 
-*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20bottom)
+*  [Upgrade to the Pro Version!](http://www.thinklandingpages.com/landingpage/wordpress-maintenance-mode-plugin-2/?utm_source=wordpress%20repository&utm_medium=repository&utm_campaign=upgrade%20maintenance%20mode%20repo%20bottom)
 
 == Installation ==
 
