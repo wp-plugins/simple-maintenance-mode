@@ -27,6 +27,7 @@ Create a maintenance mode page and block all non-logged in users from accessing 
 
 ###Additional Features in the full Advanced version
 
+*  Optimized for search engines
 *  Countdown timer to notify your visitors when you will be back online and out of maintenance mode
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
 *  Choose a background color or add a background image to make the maintenance mode page uniquely yours
