@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: wordpress maintenance mode, maintenance page, admin, administration, construction, maintenance, mode, modo, offline, unavailable, site maintenance, under construction, launch, launch page, coming soon, coming soon page
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
